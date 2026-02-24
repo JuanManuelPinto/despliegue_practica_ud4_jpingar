@@ -14,7 +14,7 @@
 * **Dominio SGBD:** `bd.test` -> Resolviendo a 127.0.0.1
 
 ## 3. Instrucciones de Despliegue
-1. **Clonación:** Clonar el repositorio desde el servidor Git mediante `git clone [URL-de-tu-repo]`.
+1. **Clonación:** Clonar el repositorio desde el servidor Git mediante `git clone https://github.com/JuanManuelPinto/despliegue_practica_ud4_jpingar.git`.
 2. **Transferencia:** Mover los archivos mediante SFTP (usando FileZilla o VS Code) a la carpeta `htdocs`
 
 ## 4. Historial de Versiones (Ciclo de Vida)
